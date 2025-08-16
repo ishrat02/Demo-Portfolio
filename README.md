@@ -1,2 +1,2 @@
 # Demo-Portfolio
-Demo Portfolio for test hosting
+Demo Portfolio to test hosting
